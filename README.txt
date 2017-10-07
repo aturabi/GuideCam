@@ -1,0 +1,1 @@
+This project is designed to be an audio guide for the visually impaired. We will use Google's Vision API to recognize common objects and how far away they are, as well as an audio interface that allows the user to ask what is in front of them and how far away it is, and get an audio response.
