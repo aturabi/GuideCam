@@ -1,0 +1,15 @@
+proto_google_cloud_spanner_admin_instance_v1-0.15.3-py2.7-nspkg.pth,sha256=FbjHS-0TwxTR1ombibXFqN-Z_nxAdsCJFxVJoQrrrq8,13404
+google/cloud/proto/spanner/admin/instance/v1/__init__.py,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+google/cloud/proto/spanner/admin/instance/v1/spanner_instance_admin_pb2.py,sha256=sBwk2vorGyG_2g7CGwkuTB7tDhMZ8RN5_jeFzGakmIs,78322
+google/cloud/proto/spanner/admin/instance/v1/spanner_instance_admin_pb2_grpc.py,sha256=Ur-HPH15DCmNBAEfdftte-KRkoIn4iXJCDueOjOTxYc,20690
+proto_google_cloud_spanner_admin_instance_v1-0.15.3.dist-info/DESCRIPTION.rst,sha256=QqDjMTobeeo52U5HsQEjPLM4plGJjwiVMYoXw9ys5Kg,305
+proto_google_cloud_spanner_admin_instance_v1-0.15.3.dist-info/METADATA,sha256=oBRVhhLAyHWSJTu8Wojdu2sdiWKJ6oVrd7qi_9Vu3Lc,1465
+proto_google_cloud_spanner_admin_instance_v1-0.15.3.dist-info/RECORD,,
+proto_google_cloud_spanner_admin_instance_v1-0.15.3.dist-info/WHEEL,sha256=F38j99qfcoNzHo88G-kisXWtI3MVVEd9JWjaAPcHMTc,93
+proto_google_cloud_spanner_admin_instance_v1-0.15.3.dist-info/metadata.json,sha256=FL1ayAdwsPUKjl53eoVbPtCNT8sJvGis22Wz4JCuf-w,1253
+proto_google_cloud_spanner_admin_instance_v1-0.15.3.dist-info/namespace_packages.txt,sha256=EiNIAbgpctPEZpCuVdoP6qXG3_Xoyni_iW9zPVutIpQ,141
+proto_google_cloud_spanner_admin_instance_v1-0.15.3.dist-info/top_level.txt,sha256=_1QvSJIhFAGfxb79D6DhB7SUw2X6T4rwnz_LLrbcD3c,7
+proto_google_cloud_spanner_admin_instance_v1-0.15.3.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+google/cloud/proto/spanner/admin/instance/v1/__init__.pyc,,
+google/cloud/proto/spanner/admin/instance/v1/spanner_instance_admin_pb2_grpc.pyc,,
+google/cloud/proto/spanner/admin/instance/v1/spanner_instance_admin_pb2.pyc,,
